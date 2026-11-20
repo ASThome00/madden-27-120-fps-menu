@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2 - 2026-11-20
+
+- Rebuilt against the November 19, 2026 title update from fresh data. Same edit
+  (`FrontEndRenderSettings` RenderFPS 60 -> 120 on all tiers); vanilla values and the
+  IgnoreRenderFpsUserSettings flag were unchanged by the update.
+
 ## 1.0.1 - 2026-09-26
 
 - Rebuilt against the September 26, 2026 title update. The update did not change
